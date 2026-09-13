@@ -1,6 +1,6 @@
 # Eloquent JavaScript — Solutions & Notes
 
-My personal solutions, project implementations, and code notes for the exercises in [*Eloquent JavaScript*](https://eloquentjavascript.net/) by Marijn Haverbeke (3rd / 4th Edition).
+My personal solutions, project implementations, and code notes for the exercises in [*Eloquent JavaScript*](https://eloquentjavascript.net/) by Marijn Haverbeke (4th Edition).
 
 ---
 
