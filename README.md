@@ -33,6 +33,7 @@ eloquent-js/
 ├── chapter21-project-skill-sharing-website/
 ├── chapter22-javascript-and-performance/
 └── README.md
+```
 
 ---
 
