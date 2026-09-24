@@ -4,37 +4,35 @@ My personal solutions, project implementations, and code notes for the exercises
 
 ---
 
-##  Repository Structure
+## Repository Structure
 
-The solutions are organized chapter by chapter, split across the three primary parts of the book:
+The solutions are organized chapter by chapter:
 
 ```text
-eloquent-js-solutions/
-├── part-1-language/
-│   ├── ch02-program-structure/
-│   ├── ch03-functions/
-│   ├── ch04-data-structures-objects-arrays/
-│   ├── ch05-higher-order-functions/
-│   ├── ch06-secret-life-of-objects/
-│   ├── ch07-project-robot/
-│   ├── ch08-bugs-and-errors/
-│   ├── ch09-regular-expressions/
-│   ├── ch10-modules/
-│   └── ch11-asynchronous-programming/
-├── part-2-browser/
-│   ├── ch13-javascript-and-the-browser/
-│   ├── ch14-document-object-model/
-│   ├── ch15-handling-events/
-│   ├── ch16-project-platform-game/
-│   ├── ch17-drawing-on-canvas/
-│   ├── ch18-http-and-forms/
-│   └── ch19-project-paint-program/
-└── part-3-node/
-    ├── ch20-node-js/
-    ├── ch21-project-skill-sharing-website/
-    └── ch22-javascript-and-performance/
-
-```
+eloquent-js/
+├── chapter1-values-types-operators/
+├── chapter2-program-structure/
+├── chapter3-functions/
+├── chapter4-data-structures/
+├── chapter5-higher-order-functions/
+├── chapter6-secret-life-of-objects/
+├── chapter7-project-robot/
+├── chapter8-bugs-and-errors/
+├── chapter9-regular-expressions/
+├── chapter10-modules/
+├── chapter11-asynchronous-programming/
+├── chapter12-project-programming-language/
+├── chapter13-javascript-and-the-browser/
+├── chapter14-document-object-model/
+├── chapter15-handling-events/
+├── chapter16-project-platform-game/
+├── chapter17-drawing-on-canvas/
+├── chapter18-http-and-forms/
+├── chapter19-project-paint-program/
+├── chapter20-node-js/
+├── chapter21-project-skill-sharing-website/
+├── chapter22-javascript-and-performance/
+└── README.md
 
 ---
 
@@ -90,7 +88,7 @@ eloquent-js-solutions/
 
 ##  License & Attribution
 
-All book contents and exercise prompts belong to [Marijn Haverbeke](https://marijnhaverbeke.nl/?utm_source=gemini).
+All book contents and exercise prompts belong to [Marijn Haverbeke](https://marijnhaverbeke.nl).
 
-The exercise solutions and implementations in this repository are released under the [MIT License](https://www.google.com/search?q=LICENSE&utm_source=gemini).
+The exercise solutions and implementations in this repository are released under the [MIT License](https://www.google.com/search?q=LICENSE).
 
