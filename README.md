@@ -1,12 +1,13 @@
 # Eloquent JavaScript — Solutions & Notes
 
-My personal solutions, project implementations, and code notes for the exercises in [*Eloquent JavaScript*](https://eloquentjavascript.net/) by Marijn Haverbeke (4th Edition).
+My personal solutions, project implementations, and code notes for the exercises in [_Eloquent JavaScript_](https://eloquentjavascript.net/) by Marijn Haverbeke (4th Edition).
 
 ---
 
 ## Repository Structure
 
 The solutions are organized chapter by chapter:
+inside each folder there are more extra challenges i do from various resource to support learning process for each chapter
 
 ```text
 eloquent-js/
@@ -37,59 +38,57 @@ eloquent-js/
 
 ---
 
-##  Progress Tracker
+## Progress Tracker
 
 ### Part 1: Language
 
-| Chapter | Title | Status |
-| --- | --- | --- |
-| 01 | Values, Types, and Operators | Complete |
-| 02 | Program Structure | Complete |
-| 03 | Functions | Complete |
-| 04 | Data Structures: Objects and Arrays | in progress |
-| 05 | Higher-Order Functions | planned |
-| 06 | The Secret Life of Objects | planned |
-| 07 | **Project: A Robot** | Planned |
-| 08 | Bugs and Errors | Planned |
-| 09 | Regular Expressions | Planned |
-| 10 | Modules | Planned |
-| 11 | Asynchronous Programming | Planned |
+| Chapter | Title                               | Status   |
+| ------- | ----------------------------------- | -------- |
+| 01      | Values, Types, and Operators        | Complete |
+| 02      | Program Structure                   | Complete |
+| 03      | Functions                           | Complete |
+| 04      | Data Structures: Objects and Arrays | Complete |
+| 05      | Higher-Order Functions              | planned  |
+| 06      | The Secret Life of Objects          | planned  |
+| 07      | **Project: A Robot**                | Planned  |
+| 08      | Bugs and Errors                     | Planned  |
+| 09      | Regular Expressions                 | Planned  |
+| 10      | Modules                             | Planned  |
+| 11      | Asynchronous Programming            | Planned  |
 
 ### Part 2: Browser
 
-| Chapter | Title | Status |
-| --- | --- | --- |
-| 13 | JavaScript and the Browser | Planned |
-| 14 | The Document Object Model | Planned |
-| 15 | Handling Events | Planned |
-| 16 | **Project: A Platform Game** | Planned |
-| 17 | Drawing on Canvas | Planned |
-| 18 | HTTP and Forms | Planned |
-| 19 | **Project: A Pixel Art Editor** | Planned |
+| Chapter | Title                           | Status  |
+| ------- | ------------------------------- | ------- |
+| 13      | JavaScript and the Browser      | Planned |
+| 14      | The Document Object Model       | Planned |
+| 15      | Handling Events                 | Planned |
+| 16      | **Project: A Platform Game**    | Planned |
+| 17      | Drawing on Canvas               | Planned |
+| 18      | HTTP and Forms                  | Planned |
+| 19      | **Project: A Pixel Art Editor** | Planned |
 
 ### Part 3: Node
 
-| Chapter | Title | Status |
-| --- | --- | --- |
-| 20 | Node.js | Planned |
-| 21 | **Project: Skill-Sharing Website** | Planned |
-| 22 | JavaScript and Performance | Planned |
+| Chapter | Title                              | Status  |
+| ------- | ---------------------------------- | ------- |
+| 20      | Node.js                            | Planned |
+| 21      | **Project: Skill-Sharing Website** | Planned |
+| 22      | JavaScript and Performance         | Planned |
 
 ---
-
 
 ## Key Takeaways & Focus Areas
 
-* **Functional Programming:** Writing cleaner abstractions with `map`, `filter`, and `reduce`.
-* **Object-Oriented Design:** Working with prototypes, classes, symbols, and iterators.
-* **Asynchronous Patterns:** Deep dives into callbacks, Promises, and `async`/`await`.
-* **DOM & Events:** Manipulating browser interfaces without relying on frontend frameworks.
+- **Functional Programming:** Writing cleaner abstractions with `map`, `filter`, and `reduce`.
+- **Object-Oriented Design:** Working with prototypes, classes, symbols, and iterators.
+- **Asynchronous Patterns:** Deep dives into callbacks, Promises, and `async`/`await`.
+- **DOM & Events:** Manipulating browser interfaces without relying on frontend frameworks.
 
 ---
 
-##  License & Attribution
+## License & Attribution
 
 All book contents and exercise prompts belong to [Marijn Haverbeke](https://marijnhaverbeke.nl).
 
 The exercise solutions and implementations in this repository are released under the [MIT License](https://www.google.com/search?q=LICENSE).
-
