@@ -42,19 +42,19 @@ eloquent-js/
 
 ### Part 1: Language
 
-| Chapter | Title                               | Status   |
-| ------- | ----------------------------------- | -------- |
-| 01      | Values, Types, and Operators        | Complete |
-| 02      | Program Structure                   | Complete |
-| 03      | Functions                           | Complete |
-| 04      | Data Structures: Objects and Arrays | Complete |
-| 05      | Higher-Order Functions              | planned  |
-| 06      | The Secret Life of Objects          | planned  |
-| 07      | **Project: A Robot**                | Planned  |
-| 08      | Bugs and Errors                     | Planned  |
-| 09      | Regular Expressions                 | Planned  |
-| 10      | Modules                             | Planned  |
-| 11      | Asynchronous Programming            | Planned  |
+| Chapter | Title                               | Status      |
+| ------- | ----------------------------------- | ----------- |
+| 01      | Values, Types, and Operators        | Complete    |
+| 02      | Program Structure                   | Complete    |
+| 03      | Functions                           | Complete    |
+| 04      | Data Structures: Objects and Arrays | Complete    |
+| 05      | Higher-Order Functions              | in progress |
+| 06      | The Secret Life of Objects          | planned     |
+| 07      | **Project: A Robot**                | Planned     |
+| 08      | Bugs and Errors                     | Planned     |
+| 09      | Regular Expressions                 | Planned     |
+| 10      | Modules                             | Planned     |
+| 11      | Asynchronous Programming            | Planned     |
 
 ### Part 2: Browser
 
